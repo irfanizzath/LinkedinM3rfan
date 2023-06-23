@@ -1,6 +1,4 @@
 # LinkedinM3rfan
-This repository consists of code for my posts on Linkedin.
-Happy to have you here!! :)
-
-Regards,
-Mohaned Irfan
+Hi!! My name is Mohamed Irfan. 
+This GitHub repository contains the code related to my posts on LinkedIn. 
+I'm delighted to welcome you here!
